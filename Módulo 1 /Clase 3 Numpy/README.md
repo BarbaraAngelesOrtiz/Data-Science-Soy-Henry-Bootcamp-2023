@@ -1,5 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
 ## Principales Objetivos de Aprendizaje para esta Clase
 
 - Conocer las ventajas del uso de la librería Numpy para manejo de Arrays y Matrices en Python
