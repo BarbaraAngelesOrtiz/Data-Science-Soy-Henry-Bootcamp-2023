@@ -173,7 +173,7 @@ La función **rand()** genera números aleatorios entre 0 y 1 en una distribuci�
 [0.7878737  0.3431897  0.77765595 0.60943181 0.30961326 0.60167083]
 ```
 
-La función **randn()** genera números aleatorios en una distribución "normal estándar". Y la función **normal()** permite escalar los límites de la muestra.
+La función **randon()** genera números aleatorios en una distribución "normal estándar". Y la función **normal()** permite escalar los límites de la muestra.
 
 ```python
 >>> print(np.random.randn(2, 2))
@@ -306,7 +306,7 @@ Se debe usar el método ***copy()** o nuevamente np.array(array_a_copiar)
   </p>
 <hr width="75%">
 
-## Opearciones con Arrays
+## Operaciones con Arrays
 
 Si intetamos sumar dos listas, se van a concatenar. Pero si intentamos sumar 2 ndarrays del mismo tamaño, se sumaran cada uno de sus elementos entre sí sin problemas, al igual que hacer una suma de matrices.
 
