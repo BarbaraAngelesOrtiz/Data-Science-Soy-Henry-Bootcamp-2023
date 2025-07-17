@@ -22,7 +22,7 @@ EVENTO
 Un evento es una colección de puntos muestrales.
 
 ##### Resultados de un estudio en base a observación de frecuencias:<br>
-![Eventos](../_src/assets/proyectoprob.PNG)
+![Eventos](/_src/assets/proyectoprob.PNG)
 
 ##### Asignación de probabilidades:<br>
 ![Eventos2](../_src/assets/proyectoprob2.PNG)
