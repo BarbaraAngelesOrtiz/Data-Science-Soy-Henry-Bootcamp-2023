@@ -1,5 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
 ## Homework
 
 1. Comprara el promedio de ventas por tipo de producto, visualizando con Outliers y sin outliers.
