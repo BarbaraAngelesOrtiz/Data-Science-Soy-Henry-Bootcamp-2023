@@ -1,11 +1,3 @@
-
-
-## Principales Objetivos de Aprendizaje para esta Clase
-
--Conocer los conceptos de Espacios Muestrales y Sucesos
--Aplicar las reglas de adición y multiplicación
--Reconocer sucesos Condicionales e Independientes.
-
 # ESPACIOS MUESTRALES Y SUCESOS
 
 Los elementos básicos de la teoría de la probabilidad son los resultados de un experimento aleatorio. Un experimento es un ensayo o juego que puede constar de uno o más intentos y cuyo resultado es la ocurrencia de uno, y sólo uno de los varios resultados posibles y no se sabe cual ocurrirá.
@@ -59,10 +51,6 @@ Con estas probabilidades, ahora puede informarle al administrador del proyecto l
 - El proyecto dure 10 meses o menos es 0.70. <br>
 - Que dure menos de 10 meses es 0.40.<br>
 - Que dure más de 10 meses es 0.30. 
-
-#### Lectura recomendada:
-
-["Estadística para administración y economía" - Capítulo 4.2](https://github.com/soyHenry/DS-M2/blob/main/Anderson.pdf)
 
 ## Clasificación de los sucesos:
 
