@@ -1,9 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
-## Principales Objetivos de Aprendizaje para esta Clase
-
-- Conocer las ventajas del uso de la librería Numpy para manejo de Arrays y Matrices en Python
-
 ## Numpy
 
 Numpy es una librería muy importante para el ecosistema de Python ya que es la base de todos los cálculos científicos y muchas de las librerías de Machine Learning, como Scikit-Learn, que con sus modelos, cuando retorna un resultado, en general lo retorna en un formato Numpy.
@@ -36,7 +30,7 @@ Un array unidimensional puede ser una fila o una columna de una tabla, igual que
 * 2D: Matriz
 * 3D+: Tensor
 
-![](../_src/assets/03-Numpy/numpy_array.png)
+![](../_src/assets/numpy_array.png)
 
 ¿Cómo se ve en el código?
 ```python
@@ -215,7 +209,7 @@ El atributo **.dtype** devuelve el tipo de dato de un array.
 int64
 ```
 
-![unaImagenConBoxShadow](../_src/assets/03-Numpy/numpy_array_shape.png)
+![unaImagenConBoxShadow](../_src/assets/numpy_array_shape.png)
 
 Un método particular es **flatten()**, que permite llevar cualquier array a una dimensión:
 
