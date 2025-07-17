@@ -1,10 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
-## Principales Objetivos de Aprendizaje para esta Clase
-
--Inferir la diferencia entre carga inicial y carga incremental
--Entender el concepto de Triggers
-
 ## Carga de Datos
 
 Durante las clases anteriores comenzamos a descubrir como generar un proceso de ETL sencillo, una parte importante de este proceso se produce luego de que se encuentra el producción. Este proceso posterior se basa en la carga de datos la cual puede ser Full o Delta, en el primer caso se vuelcan todos los datos  y en el segundo solamente los datos no almacenados en el Mart previamente.<br>
