@@ -1,9 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
-## Principales Objetivos de Aprendizaje para esta Clase
-
--Comprender el concepto de KPI
-
 ## KPIs & Business Applications
 
 Un KPI (Key Performance Indicator) como su denominación lo define, es un indicador clave de rendimiento. Puede ayudarte a evaluar el valor actual y el estado de una métrica en relación con un objetivo definido. Debido a esto es importante entender el valor del objetivo para que se pueda a partir de él definir métricas claves.<br>
