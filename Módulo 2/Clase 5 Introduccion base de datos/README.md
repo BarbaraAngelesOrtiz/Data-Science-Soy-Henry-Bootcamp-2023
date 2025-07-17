@@ -1,11 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
-## Principales Objetivos de Aprendizaje para esta Clase
-
--Reconocer el concepto de Sistemas de Gestión de Bases de Datos y de Modelo de Entidad Relación
--Conocer el Lenguaje Estructurado de Consulta (SQL)
--Comprender la diferencia entre bases de datos Transaccionales y Analíticas
-
 ## Introducción a sistemas de gestión de bases de datos
 
 En este módulo aprenderás como es el proceso mediante el cual se generan las estructuras que forman parte de las bases de datos. Un dato es "una representación simbólica de un objeto o hecho de la realidad".
