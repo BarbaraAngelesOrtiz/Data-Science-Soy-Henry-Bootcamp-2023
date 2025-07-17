@@ -1,10 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
-## Principales Objetivos de Aprendizaje para esta Clase
-
--Comprender el concepto de la Calidad del Dato y sus implicaciones
--Conocer el concepto del Modelado de Datos
-
 ## Calidad del Dato
 
 ### ¿Para qué buscamos la calidad de los datos?
