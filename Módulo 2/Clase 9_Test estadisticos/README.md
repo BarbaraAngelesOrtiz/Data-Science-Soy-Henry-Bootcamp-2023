@@ -1,9 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
-## Principales Objetivos de Aprendizaje para esta Clase
-
-- Usar los conceptos de Tests Estadísticos y Pruebas de Hipótesis
-
 # Tests Estadísticos
 
 ["Estadística para administración y economía" - Capítulo 9](https://github.com/soyHenry/DS-M2/blob/main/Anderson.pdf)
