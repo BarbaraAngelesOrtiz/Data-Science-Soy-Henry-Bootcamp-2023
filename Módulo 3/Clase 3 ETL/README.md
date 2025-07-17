@@ -1,9 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
-## Principales Objetivos de Aprendizaje para esta Clase
-
--Entender el concepto de ETL y Outlier
-
 ## Extracción, Transformación y Carga - ETL
 
 Gracias a los procesos ETL es posible que cualquier organización:
