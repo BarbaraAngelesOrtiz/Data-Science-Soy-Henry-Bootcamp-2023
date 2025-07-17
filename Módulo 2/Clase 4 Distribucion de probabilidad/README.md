@@ -1,9 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
-## Principales Objetivos de Aprendizaje para esta Clase
-
--Entender el concepto de distribución de probabilidad y sus características.
-
 ## Distribuciones de probabilidad
 
 ![Distribuciones](../_src/assets/distributionprob.png)
@@ -15,9 +9,6 @@ La distribución de probabilidad es de doble eje, constituida por todos los valo
 
 p1 + p2 +,…,+ pN = 1
 
-#### Lectura recomendada:
-
-["Estadística para administración y economía" - Capítulo 5 y 6](https://github.com/soyHenry/DS-M2/blob/main/Anderson.pdf)
 
 ### Ejemplo: <br>
 
@@ -475,4 +466,3 @@ Distribución de Poisson:<br>
 Distribución Normal:<br>
 13. La calificación promedio de los estudiantes de Henry es de 78 con una desviación estandar de 25. Cual es la probabilidad de tener estudiantes con calificaciones mayores o iguales 90.
 
-Tablas de Distribución [tablas](https://github.com/soyHenry/DS-M2/blob/3aae1f7b63bf723a96a8094a2e1598e69bb10b34/Clase%2006/Tablas%20Distribuci%C3%B3n.pdf)
