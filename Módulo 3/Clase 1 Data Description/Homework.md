@@ -1,5 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
 ## Homework
 
 A lo largo del módulo ustedes serán los analistas de datos de una compañía de venta de insumos tecnológicos al público. A lo largo de las prácticas se harán cargo de la información de la empresa y realizarán el proceso completo de captura, limpieza, análisis, diagnóstico, documentación, explotación y publicación de resultados.
