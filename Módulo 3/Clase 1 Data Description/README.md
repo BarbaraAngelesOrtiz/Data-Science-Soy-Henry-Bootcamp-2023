@@ -1,10 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
-## Principales Objetivos de Aprendizaje para esta Clase
-
--Entender el concepto de Inteligencia de Negocios (BI)
--Reconocer el Ecosistema típico en una organización
-
 ## Convertir los Datos en Conocimiento
 
 <img src="../_src/assets/datos_info_conoc.jpg"  height="250">
