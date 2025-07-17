@@ -1,5 +1,5 @@
 <h1>Bootcamp Módulo 4</h1> 
-<p><img alt="henry" src="images/henry.jpeg" /> </p>
+
 <h2>Elegir la opción correspondiente</h2>
 <p>1) En Big Data, la característica <code>variedad</code> consiste en: </p>
 <p>Opciones: </p>
