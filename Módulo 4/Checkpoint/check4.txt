@@ -1,0 +1,130 @@
+1) En un Datawarehouse los datos se organizan bajo un modelo relacional, sin embargo:
+<br> 1
+1- existen ciertos modelos de negocio que no se puden representar con un modelo de datos relacional.  
+2- en los últimos años, con la evolución de la tecnología de redes y la capacidad de cómputo, ha surgido un nuevo tipo de dato, no estructurado, que requiere de un nuevo enfoque a la hora de ser gestionado.  
+3- este esquema ha dejado de usarse en los últimos años
+
+2) Las 3 V del Big Data: 
+<br> 2
+1- Volúmen de datos, Variedad de estructura y Velocidad en que se genera el dato.  
+2- Volúmen de datos, Variedad de fuentes y Velocidad en que se genera el dato.  
+3- Volúmen de datos, Vinculación entre herramientas y Velocidad.
+
+
+3) Un Data Lake:
+<br>2
+1- Es una mejora al datawarehouse, que consiste en tener más capacidad de hardware para la gestión de grandes caudales de datos.  
+2- Es un repositorio unificado de datos estructurados y no estructurados, que prioriza el almacenamiento de los datos en su formato original para luego ser procesados de acuerdo a la demanda.  
+3- Es un sistema de ETL distribuido.
+
+
+4) Un Cluster Hadoop:
+<br>1
+1- Tiene dos tipos de nodos, un único “Master Node” llamado NameNode y un gran número de “Workers Nodes” llamados DataNodes.  
+2- Es una arquitectura Cliente - Servidor adaptada a la gestión de grandes volúmenes de datos.  
+3- Funciona sobre cualquier sistema operativo.
+
+
+5) En un cluster que tiene un factor de réplica de 3 y un tamaño de bloque de 64Mb, se guarda un archivo de 6500Mb, ¿cuántos segmentos del archivo original se deberán distribuir a lo largo del cluster?
+<br>2
+1- 305  
+2- 306  
+3- 102
+
+
+6) ¿Cuál de las siguientes afirmaciones no es correcta?
+<br>3
+1- Docker ejecuta sus procesos de forma nativa
+2- Los servicios de docker pueden llegar a consumir más recursos que los que se les permite.
+3- Cada contenedor tiene un ID único, también tiene un nombre.
+
+7) Si se piensa en montar un Datawarehouse sobre Hadoop:
+<br>2
+1- Es impracticable ya que sólo sería factible un DataLake
+2- Hive es una opción, dado que es una herramienta que asigna una estructura tabular a los datos en bruto almacenados en HDFS.
+3- Sólo es posible utilizar motores de bases de datos No-SQL.
+
+8) En caso de realizar una operación de tipo DROP TABLE en Hive:
+<br>3
+1- Si la tabla es "Managed" se elimina la metadata pero no los datos fuente.
+2- Si la tabla es "External" se elimina sólo los datos fuente.
+3- Si la tabla es "Managed" se elimina la metadata y los datos fuente.
+
+9) Si se considera que una tabla dentro de Hive va a ser consultada mediante consultas de agregación:
+<br>3
+1- Conviene que esté almacenada en formato CSV.
+2- No es Hive la herramienta adecuada, sería mejor elegir un motor No-SQL.
+3- Conviene que esté almacenada en formato Parquet.
+
+10) ¿Cuáles son las características fundamentales de los motores de bases de datos No-SQL?
+<br>2
+1- Consistencia Eventual, Aislamiento y Durabilidad.
+2- Tolerancia a Particiones, Escalabilidad Horizontal y Casos de Uso Específicos.
+3- Tolerancia a Particiones, Consistencia Horizontal y Casos de Uso de Negocio.
+
+11) El Teorema CAP dice:
+<br>3
+1- Que un sistema SQL puede ser Consistente y estar Disponible.
+2- Que un sistema No-SQL puede ser Tolerante a Particiones y Consistente.
+3- Que un sistema SQL ó No-SQL no puede garantizar al mismo tiempo, Consistencia, Disponibilidad y Tolerancia a Particiones.
+
+12) La Tolerancia a Particiones es un concepto relacionado con:
+<br>3
+1- Que el sistema pueda gestionar particiones lógicas en los discos duros.
+2- Que la administracion del sistema esté particionada.
+3- Que el sistema pueda recrear y disponibilizar información aún habiendo tenido fallas de red.
+
+13) Estructura fundamental de datos de Apache Spark:
+<br>3
+1- Datasets y Dataframes.
+2- Tablas y Grafos.
+3- RDD (Resilient Distributed Dataset).
+
+14) Diferencia fundamental entre dataframes y datasets:
+<br>1
+1- Dataset está dispoinble en Scala, mientras que Dataframe en Python.
+2- Scala es un lenguaje con una sintaxis muy diferente a R.
+3- Dataset es una estructura de datos que requiere de una definición previa de los tipos de datos a utilizar en cada campo.
+
+15) Kafka es un sistema de mensajes distribuido:
+<br>1
+1- Que utiliza el patrón productor-consumidor y maneja el concepto de tópico para categorizar esos mensajes.
+2- Que implementa procesamiento streaming.
+3- Que se utiliza para monitorear un procesos streaming.
+
+Utilizando los archivos provistos en las carpetas "data_cp_airports" y "data_cp_flights" responder:
+
+16) En la carpeta "data_cp_flights" hay un archivo Parquet, comprimido con Snappy, en adelante, la tabla "flights". ¿Qué cantidad de columnas posee? *
+Nota: Para la realización de los puntos 16 al 20, se puede utilizar el entorno visto en clase ubicado en el repositorio: https://github.com/soyHenry/DS-M4-Cluster_Spark
+Quitar de la tabla "flights" los registros que tengan valores nulos o faltantes en los campos "ArrDelay" y "DepDelay". Luego contestar:
+*
+1-5
+2-7
+3-12
+
+17) ¿Cuál es la tupla de aeropuertos, con mayor cantidad de vuelos entre sí?
+ *
+Nota: Es posible tomar el nombre del aeropuerto desde el archivo "airports.csv", donde "airport_id" se puede relacionar con "OriginAirportID" y "DestAirportID" de la tabla "flights"
+Si consideramos que cuando el campo ArrDelay es mayor a 25, el vuelo está demorado, contestar:
+1-Honolulu International - Kahului Airport
+2-San Francisco International - Los Angeles International
+3-Los Angeles International - McCarran International
+
+18) ¿Cuál es la cantidad de vuelos demorados?
+ *
+1-380502
+2-1255037
+3-2309883
+
+19) ¿Cuál es la tupla de aeropuertos, con mayor cantidad de vuelos demorados entre sí?
+*
+Nota: Es posible tomar el nombre del aeropuerto desde el archivo "airports.csv", donde "airport_id" se puede relacionar con "OriginAirportID" y "DestAirportID" de la tabla "flights"
+1-Honolulu International - Kahului Airport
+2-San Francisco International - Los Angeles International
+3-Chicago O'Hare International - San Francisco International
+
+20) ¿Cuál es el aeropuerto con el mayor promedio de demora en arribos? (ArrDelay)
+*
+1-Washington Dulles International
+2-Nashville International
+3-Chicago Midway International
