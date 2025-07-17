@@ -1,5 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
 ## Principales Objetivos de Aprendizaje para esta Clase
 
 -Aplicar los conceptos de Flujos de Trabajo y DAG
