@@ -169,10 +169,6 @@ Cuando nos encontramos frente a una prueba de hipótesis del tipo: "H0: μ= x" y
 ![prueba2](/_src/assets/doscolas.png)
 
 
-# IMPORTANTE
-Te recomendamos complementar este material con la lectura y ejercicios de las secciones 9.3 (pág. 345) y 9.4  (pág. 359) del Libro ["Estadística para administración y economía" - Capítulo 9](https://github.com/soyHenry/DS-M2/blob/main/Anderson.pdf).<br>
-Podrás verificar las soluciones en las pág. 1002 y 1003.
-
 ## Homework
 
 1. El gerente de Danvers-Hilton Resort afirma que la cantidad media que gastan los huéspedes en un fin de semana es de $600 o menos. Un miembro del equipo de contadores observó que en los últimos meses habían aumentado tales cantidades. El contador emplea una muestra de cuentas de fin de semana para probar la afirmación del gerente.
