@@ -1,10 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
-## Principales Objetivos de Aprendizaje para esta Clase
-
--Diferenciar el concepto de Subconsultas y Vistas
--Comprender en qué casos son útiles las Funciones Ventana
-
 ## Subconsultas
 
 Una consulta secundaria es una consulta de selección que está contenida dentro de otra consulta. La consulta de selección interna generalmente se usa para determinar los resultados de la consulta de selección externa. Consiste en utilizar los resultados de una consulta dentro de otra, que se considera la principal.<br>
