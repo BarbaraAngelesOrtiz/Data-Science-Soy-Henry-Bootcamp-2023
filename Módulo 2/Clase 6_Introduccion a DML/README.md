@@ -1,9 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
-## Principales Objetivos de Aprendizaje para esta Clase
-
--Aplicar las instrucciones básicas para realizar consultas en una base de datos relacional
-
 ## Introducción a DML y ORM. Interacción con bases de datos.
 
 En la clase anterior aprendimos como modelar un negocio para poder crear la estructura de una base de datos, siendo estas una de las fuentes de datos a consultar cuando sea necesario obtener información para la toma de decisiones.
@@ -226,7 +220,7 @@ menos_de_1 = db.session.query(Producto).filter(Producto.precio < 1).all()
 
 ## Homework
 
-1.	Inserte los [siguientes](https://github.com/soyHenry/DS-M2/blob/main/Clase%2002/Homework/registros_henry.sql) registros dentro de la base de datos creada en la clase anterior, corregir los errores que impidan la instrucción.<br>
+1.	Inserte los registros dentro de la base de datos creada en la clase anterior, corregir los errores que impidan la instrucción.<br>
 2.	No se sabe con certeza el lanzamiento de las cohortes N° 1245 y N° 1246, se solicita que las elimine de la tabla.<br>
 3.	Se ha decidido retrasar el comienzo de la cohorte N°1243, por lo que la nueva fecha de inicio será el 16/05. Se le solicita modificar la fecha de inicio de esos alumnos.<br>
 4.	El alumno N° 165 solicito el cambio de su Apellido por “Ramirez”. <br>
