@@ -1,5 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
 ## Principales Objetivos de Aprendizaje para esta Clase
 
 -Comprender el concepto Big Data y lo qué implican las 3V’s de Big Data
