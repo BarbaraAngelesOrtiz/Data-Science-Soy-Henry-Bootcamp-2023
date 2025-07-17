@@ -1,11 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
-## Principales Objetivos de Aprendizaje para esta Clase
-
--Conocer el concepto de índices en bases de datos y Formas Normales
--Identificar los diferentes esquemas de Modelos de Datos
--Optimizar las consultas
-
 ## Query Optimization
 
 La optimización de consultas es de gran importancia para el rendimiento de una base de datos relacional, especialmente para la ejecución de sentencias SQL complejas. Un optimizador de consultas decide los mejores métodos para implementar cada consulta.
