@@ -1,9 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
-## Principales Objetivos de Aprendizaje para esta Clase
-
--Aplicar la interacción entre un lenguaje de programación y motor de bases de datos
-
 ## Homework
 
 1. Bajar el CSV de Oferta Gastronómica desde Buenos Aires Data (https://data.buenosaires.gob.ar/dataset/). Idealmente hacer esto con Python.
