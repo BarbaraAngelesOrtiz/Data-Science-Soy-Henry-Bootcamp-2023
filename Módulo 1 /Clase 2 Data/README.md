@@ -1,11 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
-## Principales Objetivos de Aprendizaje para esta Clase
-
--Conocer los distintos tipos de datos
--Identificar las falencias podemos encontrar en los datos
--Comprender de qué se trata el Análisis Exploratorio
-
 ## Características de los Datos
 
 Los datos con los que vamos a estar trabajando, son en definitiva la fuente del conocimiento necesario que debemos adquirir para poder resolver las preguntas que nos hacemos, entonces, es preciso conocer todas sus características, algunas de ellas son:
