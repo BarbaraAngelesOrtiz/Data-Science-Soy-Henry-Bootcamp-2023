@@ -1,11 +1,3 @@
-
-
-## Principales Objetivos de Aprendizaje para esta Clase
-
--Conocer los conceptos de Espacios Muestrales y Sucesos
--Aplicar las reglas de adición y multiplicación
--Reconocer sucesos Condicionales e Independientes.
-
 # ESPACIOS MUESTRALES Y SUCESOS
 
 Los elementos básicos de la teoría de la probabilidad son los resultados de un experimento aleatorio. Un experimento es un ensayo o juego que puede constar de uno o más intentos y cuyo resultado es la ocurrencia de uno, y sólo uno de los varios resultados posibles y no se sabe cual ocurrirá.
@@ -22,10 +14,10 @@ EVENTO
 Un evento es una colección de puntos muestrales.
 
 ##### Resultados de un estudio en base a observación de frecuencias:<br>
-![Eventos](/_src/assets/proyectoprob.PNG)
+![Eventos](./_src/assets/proyectoprob.PNG)
 
 ##### Asignación de probabilidades:<br>
-![Eventos2](../_src/assets/proyectoprob2.PNG)
+![Eventos2](./_src/assets/proyectoprob2.PNG)
 
 Considere que al encargado del proyecto anterior le interesa conocer la probabilidad de terminar el proyecto en 10 meses o menos. 
 En la primer tabla aparecen los puntos muestrales (2, 6), (2, 7), (2, 8), (3, 6), (3, 7), (4, 6) correspondientes a
