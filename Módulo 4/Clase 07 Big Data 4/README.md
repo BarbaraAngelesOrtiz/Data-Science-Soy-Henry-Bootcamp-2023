@@ -1,5 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
 ## Principales Objetivos de Aprendizaje para esta Clase
 
 -Comprender el caso de uso de Spark y su Arquitectrua
