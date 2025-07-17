@@ -1,22 +1,7 @@
-
-
-## Principales Objetivos de Aprendizaje para esta Clase
-
--Conocer los conceptos fundamentales de la Estadística
--Estadística aplicada con Python
-
 ## Estadística
 
 El término estadística se refiere a datos numéricos, tales como promedios, medianas, porcentajes y números índices que ayudan a entender una gran variedad situaciones.<br>
 En un sentido amplio, la estadística se define como el arte y la ciencia de reunir datos, analizarlos, presentarlos e interpretarlos. Esto ayuda a las personas que deben tomar decisiones una mejor comprensión del entorno, permitiéndoles así tomar mejores decisiones con base en mejor información.
-
-
-#### Lectura recomendada:
-
-["Estadística Inferencial 1 Para Ingeniería y Ciencias" - Unidad 1](https://github.com/soyHenry/DS-M2/blob/main/Estad%C3%ADstica%20Inferencial.pdf)
-
-["Estadística para Administración Economía" - Capítulo 2 y 3](https://github.com/soyHenry/DS-M2/blob/main/Anderson.pdf)
-
 
 ### Estadística Descriptiva
 La mayor parte de la información estadística en periódicos, revistas, informes de empresas y otras publicaciones consta de datos que se resumen y presentan en una forma fácil de leer y de entender. A estos resúmenes de datos, que pueden ser tabulares, gráficos o numéricos se les conoce como estadística descriptiva. Mediante estadísticos se pueden describir y comprender un entorno.
