@@ -1,9 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
-## Principales Objetivos de Aprendizaje para esta Clase
-
--Aplicar las variables, funciones y procedimientos en SQL
-
 ## Variables
 
 En los scripts SQL, se pueden utilizar variables para almacenar valores durante la ejecución de una secuencia de comandos y utilizarlos luego.<br>
