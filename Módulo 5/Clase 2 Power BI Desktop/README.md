@@ -1,5 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
 ## Introducción a Power BI Desktop
 
 [Documentación oficial](https://docs.microsoft.com/en-us/power-bi/fundamentals/desktop-getting-started)
@@ -100,3 +98,4 @@ Deberás tomar el mouckup generado en la clase anterior y elaborar un dashboard 
     </td>
   </tr>
 </table>
+
