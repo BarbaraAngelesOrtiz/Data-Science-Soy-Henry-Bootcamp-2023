@@ -1,5 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
 ## **Objetivos de aprendizaje**
 
 -Comprender el Aprendizaje No Supervisado
@@ -306,3 +304,4 @@ Para realizar estas prácticas, en la carpeta Datasets poseen un .zip que contie
 **La clase que viene volveremos al aprendizaje supervisado.**
 
 <img src = "https://www.pintzap.com/storage/img/memegenerator/templates/homer-simpson-yuju.jpg" height = 200>
+
