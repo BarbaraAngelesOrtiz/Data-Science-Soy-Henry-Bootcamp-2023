@@ -1,6 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
-
 Todo producto digital genera una gran cantidad de datos que, utilizados estratégicamente, pueden aprovecharse para la toma de decisiones. En el M5 buscaremos entregar las herramientas necesarias para comprender como realizar la explotación de los mismos en sus etapas de análisis y visualización efectiva.
 En este modulo se tomaran conceptos vistos en los anteriores para darles una aplicación en casos de negocio. Implementaremos como analista de dato el diseño y desarrollo de tableros de control con la herramienta Power BI, utilizando DAX (Data Analysis Expressions), Lenguaje M y Power Query, como tambien el uso de Python para visualización de datos. 
 
@@ -349,3 +346,4 @@ Las métricas a representar son:
   - Ventas por productos.
   - Evolución del total de ventas por fecha de orden.
   - Top 10 de ventas por productos.
+
