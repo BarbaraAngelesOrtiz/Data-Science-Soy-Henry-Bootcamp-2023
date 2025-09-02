@@ -1,5 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
 ## **Objetivo de aprendizaje de esta sesión**
 
 -Entender los principales métodos de Procesamiento del Lenguaje Natural
@@ -232,3 +230,4 @@ Hemos llegado a la última clase del módulo. Hoy profundizaremos en tres áreas
 + Práctica_01: Procesamiento de Lenguaje Natural
 
 Para realizar estas prácticas, en la carpeta Datasets poseen un .zip que contiene los archivos a utilizar.
+
