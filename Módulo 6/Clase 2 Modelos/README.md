@@ -1,5 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
 ## **Objetivos de aprendizaje de esta sesión**
 
 -Adaptación del modelo de regresión lineal a un problema de Clasificación (Regresión Logística).
@@ -392,4 +390,5 @@ Si vemos a ese gas como sólo 4 moléculas de 4 colores diferentes, y sabemos qu
 
 ### Enlaces de Referencia:
 * [El Cristal que se Alimenta de Entropía | ¿Qué es la Entropía?] (https://www.youtube.com/watch?v=FpA_FhJQXzI)
+
 * [Hoy sí vas a entender la Entropía] (https://www.youtube.com/watch?v=ttjM-dMPddY)
