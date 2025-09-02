@@ -1,6 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
-
 ## Conceptos básicos de DAX en Power BI Desktop
 
 [Tutorial DAX](https://docs.microsoft.com/en-us/dax/)
@@ -157,3 +154,4 @@ Activa la traducción automática y mira estos conceptos:
     </td>
   </tr>
 </table>
+
