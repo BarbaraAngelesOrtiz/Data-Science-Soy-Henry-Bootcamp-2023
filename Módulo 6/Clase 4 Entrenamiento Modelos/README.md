@@ -1,5 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
 ## **Objetivos de aprendizaje de esta sesión**
 
 -Comprender técnicas de Optimización de Entrenamiento de Modelos
@@ -154,3 +152,4 @@ Los contenidos de la clase se agruparán en los siguientes tres notebooks:
 + Práctica_02: regularización Ridge y Lasso
 
 + Práctica_03: descenso de gradiente
+
