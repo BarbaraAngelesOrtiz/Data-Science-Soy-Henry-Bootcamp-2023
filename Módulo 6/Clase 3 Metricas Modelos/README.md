@@ -1,5 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
 ## **Objetivos de aprendizaje de esta sesión:**
 
 -Comprender los conceptos de Balanceo de dataset, overfitting y underfitting
@@ -375,3 +373,4 @@ Ya veremos que existen diversas técnicas para encontrar las mejores combinacion
  Suficiente por hoy ¡Llegó el momento de pasar a la práctica!
 
 <img src="https://c.tenor.com/jjibcYg2mXEAAAAC/yes-done.gif" height="250">
+
