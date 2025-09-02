@@ -1,5 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
 ## **Objetivos de aprendizaje de esta sesión**
 
 -Comprender el concepto de Series de Tiempo y su utilización
@@ -132,3 +130,4 @@ Ya es momento de pasar a la práctica y empezar a aplicar nuestras primeras téc
 3. One-step, Multi-step y Prophet
 
 <img src = "./_src/assets/feo.jpg" height = 250>
+
