@@ -1,5 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
 ## Script de Ptyhon en Power BI
 
 Eb Power BI, Puede ejecutar scripts de Python e importar los conjuntos de datos resultantes en un modelo de datos de Power BI Desktop.<br>
@@ -190,3 +188,4 @@ En ciertos casos, es posible que no desee que se produzca la agrupación automá
 - Obtener los datos de geolocalización desde el siguiente link.
 - Crear los tres gráficos referidos en este material.
 >>>>>>> d111edc534aa6edddb3686c94c731fadaff94c38
+
