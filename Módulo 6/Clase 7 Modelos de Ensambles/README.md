@@ -1,5 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
 ## **Objetivos de aprendizaje para esta sesión**
 
 -Reconocer el concepto de Estimación de grandes números
@@ -187,4 +185,5 @@ Los notebooks se dividirán de la siguiente manera:
 + Práctica_04: voting
 
 + Práctica_05: pipeline
+
 
