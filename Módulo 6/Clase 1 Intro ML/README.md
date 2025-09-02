@@ -1,5 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
 ## **Objetivos de aprendizaje de esta sesión**
 
 -Comprender la historia y evolución de la Inteligencia Artificial (específicamente Machine Learning)
@@ -449,3 +447,4 @@ La práctica de hoy es:
 ## `Homework`
 
 + Práctica_Adicional_Regresión.ipynb
+
