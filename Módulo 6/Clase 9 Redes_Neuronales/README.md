@@ -1,5 +1,3 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
-
 ## **Objetivos de aprendizaje de la sesión**
 
 -Comprender el funcionamiento básico de las Redes Neuronales
@@ -537,5 +535,6 @@ Una vez que se tiene entrenada la red GPT, se puede implementar un modelo de len
 * [ChatGPT Prompt Engineering for Developers: A short course from OpenAI and DeepLearning.AI] (https://www.youtube.com/watch?v=H4YK_7MAckk)
 * [Algunos precedentes, con la participación de Alan Turing: "La computadora que redactaba cartas de amor"] (https://www.bbc.com/mundo/noticias/2012/10/121015_love_letter_computer_du)
  
+
 
 ## Homework
